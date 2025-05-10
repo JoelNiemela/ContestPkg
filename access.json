@@ -1,0 +1,10 @@
+{
+   "capabilities": [],
+   "endpoints": [
+     { "type": "contest", "properties": ["id", "name", "start_time", "duration"]},
+     { "type": "languages", "properties": ["id", "name"]},
+     { "type": "problems", "properties": ["id", "name"]},
+     { "type": "teams", "properties": ["id", "name"]},
+     { "type": "submissions", "properties": ["id", "language_id", "problem_id", "team_id", "time", "contest_time", "files"]}
+   ]
+}

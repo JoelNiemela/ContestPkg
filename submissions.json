@@ -1,0 +1,38 @@
+[
+	{
+		"id": "1",
+		"language_id": "python3",
+		"problem_id": "hello",
+		"team_id": "team1",
+		"time": "2014-06-25T11:22:05.034+01",
+		"contest_time": "0:05:02.012",
+		"files": [{ "href": "", "filename": "files.zip", "mime": "application.zip" }]
+	},
+	{
+		"id": "2",
+		"language_id": "python3",
+		"problem_id": "hello",
+		"team_id": "team2",
+		"time": "2014-06-25T11:22:05.034+01",
+		"contest_time": "0:07:03.642",
+		"files": [{ "href": "", "filename": "files.zip", "mime": "application.zip" }]
+	},
+	{
+		"id": "3",
+		"language_id": "python3",
+		"problem_id": "hello",
+		"team_id": "team2",
+		"time": "2014-06-25T11:22:05.034+01",
+		"contest_time": "0:08:23.534",
+		"files": [{ "href": "", "filename": "files.zip", "mime": "application.zip" }]
+	},
+	{
+		"id": "4",
+		"language_id": "python3",
+		"problem_id": "hello",
+		"team_id": "team2",
+		"time": "2014-06-25T11:22:05.034+01",
+		"contest_time": "0:08:26.452",
+		"files": [{ "href": "", "filename": "files.zip", "mime": "application.zip" }]
+	}
+]

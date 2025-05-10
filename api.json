@@ -1,0 +1,9 @@
+{
+   "version": "draft",
+   "version_url": "https://ccs-specs.icpc.io/draft/contest_api",
+   "provider" : {
+      "name": "Kattis",
+      "version" : "42",
+      "logo": []
+   }
+}
